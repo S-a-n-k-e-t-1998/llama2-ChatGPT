@@ -44,22 +44,20 @@ The Local LLAMA2-CHATGPT Chatbot leverages the power of the GGML LLama2 quantize
 
 ## Getting Started
 
-1. Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/local-llama2-chatgpt.git
+1. Clone this repository to your local machine using the following command:\n
+`https://github.com/S-a-n-k-e-t-1998/llama2-ChatGPT`
 
-css
-Copy code
 
-2. Navigate to the project directory:
+
+2. Navigate to the project directory:\n
 cd local-llama2-chatgpt
 
-arduino
-Copy code
 
-3. Install the required dependencies using pip:
+
+3. Install the required dependencies using pip:\n
   `pip install -r requirements.txt`
 
-4. Run the chatbot application using Streamlit:
+4. Run the chatbot application using Streamlit:\n
    `streamlit run app.py`
 
 
