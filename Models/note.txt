@@ -1,1 +1,5 @@
+Visit the LLama2 model repository on Hugging Face.(https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML)
 
+Select and download the quantized GGML model version that aligns with your hardware setup (CPU or GPU). Quantization optimizes the model for faster performance and reduced resource usage.
+
+Follow the usage guidelines provided by Hugging Face to integrate the GGML LLM model into your projects, experiments, or applications.
