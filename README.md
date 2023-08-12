@@ -1,34 +1,6 @@
-# Local LLAMA2-CHATGPT Chatbot
+# LLAMA2-CHATGPT Chatbot
 
-Welcome to the Local LLAMA2-CHATGPT Chatbot repository! This project showcases the integration of an open-source GGML (Generative Language Model) using the LLama2 quantized model. The chatbot is designed to provide interactive and context-aware conversations through a Streamlit user interface.
-
-## Overview
-
-The Local LLAMA2-CHATGPT Chatbot leverages the power of the GGML LLama2 quantized model, combined with the Langchain ctransformer, to enable dynamic and engaging conversations. This project demonstrates how to set up and run a chatbot application locally, allowing you to interact with the model and experience its language generation capabilities.
-
-## Features
-
-- **Streamlit UI:** The chatbot interface is built using Streamlit, a user-friendly framework for creating interactive web applications with minimal effort.
-
-- **LLama2 Model:** The GGML LLama2 quantized model serves as the foundation for the chatbot's language generation, providing contextually relevant responses.
-
-- **Langchain ctransformer:** The Langchain ctransformer library is used to load and interact with the LLama2 model efficiently.
-
-## Getting Started
-
-1. Clone this repository to your local machine using the following command:
-`git clone https://github.com/your-username/local-llama2-chatgpt.git`
-
-2. Navigate to the project directory:
-   `cd llama2-chatgpt`
-
-3. Install the required dependencies using pip:
-   `
-markdown
-Copy code
-# Local LLAMA2-CHATGPT Chatbot
-
-Welcome to the Local LLAMA2-CHATGPT Chatbot repository! This project showcases the integration of an open-source GGML (Generative Language Model) using the LLama2 quantized model. The chatbot is designed to provide interactive and context-aware conversations through a Streamlit user interface.
+Welcome to the LLAMA2-CHATGPT Chatbot repository! This project showcases the integration of an open-source GGML (Generative Language Model) using the LLama2 quantized model. The chatbot is designed to provide interactive and context-aware conversations through a Streamlit user interface.
 
 ## Overview
 
@@ -45,12 +17,10 @@ The Local LLAMA2-CHATGPT Chatbot leverages the power of the GGML LLama2 quantize
 ## Getting Started
 
 1. Clone this repository to your local machine using the following command:\n
-`https://github.com/S-a-n-k-e-t-1998/llama2-ChatGPT`
-
-
+   `https://github.com/S-a-n-k-e-t-1998/llama2-ChatGPT`
 
 2. Navigate to the project directory:\n
-cd local-llama2-chatgpt
+   `cd local-llama2-chatgpt`
 
 
 
