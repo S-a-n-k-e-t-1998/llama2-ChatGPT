@@ -20,7 +20,7 @@ The Local LLAMA2-CHATGPT Chatbot leverages the power of the GGML LLama2 quantize
    `https://github.com/S-a-n-k-e-t-1998/llama2-ChatGPT`
 
 2. Navigate to the project directory:\n
-   `cd local-llama2-chatgpt`
+   `cd llama2-ChatGPT`
 
 
 
